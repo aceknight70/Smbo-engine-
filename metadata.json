@@ -1,0 +1,6 @@
+{
+  "name": "The SMBO engine",
+  "description": "A visual and calculating tool for Delta SDG Allied Business for SMBO MPCS to watch one sale move through 30 lanes and the cooperative engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
